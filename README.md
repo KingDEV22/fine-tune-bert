@@ -1,4 +1,4 @@
-# fine-tune-bert
+# Depression Detection model
 The DistilBERT model from hugging face is fine-tune on depression dataset from various sources.
 
 The model can be used to detect depression in a provided test. 
